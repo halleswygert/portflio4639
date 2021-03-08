@@ -1,12 +1,13 @@
 import React from 'react';
 
+
 class Facts extends React.Component{
     
     render(){
         return (
         <>
 
-        <h1> Fun Facts </h1>
+        <h1 style= {{color:"lightblue"}}> Fun Facts </h1>
     
         <p>1. Black Mirror first premiered in {this.props.showDate}.</p>
 
