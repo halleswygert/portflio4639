@@ -2,7 +2,7 @@
   "name": "portfolio1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://halleswygert.github.io/portfolio1",
+  "homepage": "http://halleswygert.github.io/portfolio4639",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.11.9",
@@ -16,9 +16,9 @@
     "web-vitals": "^1.1.0"
   },
   "scripts": {
-    "start": "react-scripts start",
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
